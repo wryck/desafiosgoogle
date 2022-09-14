@@ -131,3 +131,4 @@ kubectl expose deployment hello-server --type=LoadBalancer --port **8083**
     ```
     
     **IMPORTANTE**: Aguarde a criação do balanceamento por volta de 7min antes de verificar a etapa 3
+:)
